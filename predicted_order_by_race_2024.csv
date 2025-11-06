@@ -1,0 +1,432 @@
+year,round,raceId,circuitId,driverRef,team,grid,pred_pos,finish_pos
+2024,1,1121,3,max_verstappen,Red Bull,1,1.86,1.0
+2024,1,1121,3,leclerc,Ferrari,2,2.5,4.0
+2024,1,1121,3,russell,Mercedes,3,3.56,5.0
+2024,1,1121,3,sainz,Ferrari,4,4.39,3.0
+2024,1,1121,3,perez,Red Bull,5,5.17,2.0
+2024,1,1121,3,alonso,Aston Martin,6,5.78,9.0
+2024,1,1121,3,norris,McLaren,7,5.79,6.0
+2024,1,1121,3,hamilton,Mercedes,9,5.8,7.0
+2024,1,1121,3,piastri,McLaren,8,7.47,8.0
+2024,1,1121,3,stroll,Aston Martin,12,8.73,10.0
+2024,1,1121,3,ricciardo,RB F1 Team,14,10.72,13.0
+2024,1,1121,3,albon,Williams,13,11.05,15.0
+2024,1,1121,3,hulkenberg,Haas F1 Team,10,11.48,16.0
+2024,1,1121,3,tsunoda,RB F1 Team,11,11.53,14.0
+2024,1,1121,3,ocon,Alpine F1 Team,19,11.61,17.0
+2024,1,1121,3,gasly,Alpine F1 Team,20,12.03,18.0
+2024,1,1121,3,zhou,Sauber,17,12.48,11.0
+2024,1,1121,3,bottas,Sauber,16,13.62,19.0
+2024,1,1121,3,sargeant,Williams,18,13.74,20.0
+2024,1,1121,3,kevin_magnussen,Haas F1 Team,15,15.02,12.0
+2024,2,1122,77,max_verstappen,Red Bull,1,1.85,1.0
+2024,2,1122,77,leclerc,Ferrari,2,3.16,3.0
+2024,2,1122,77,perez,Red Bull,3,4.17,2.0
+2024,2,1122,77,russell,Mercedes,7,5.52,6.0
+2024,2,1122,77,norris,McLaren,6,6.4,8.0
+2024,2,1122,77,alonso,Aston Martin,4,7.12,5.0
+2024,2,1122,77,bearman,Ferrari,11,7.31,7.0
+2024,2,1122,77,hamilton,Mercedes,8,7.35,9.0
+2024,2,1122,77,piastri,McLaren,5,7.58,4.0
+2024,2,1122,77,tsunoda,RB F1 Team,9,10.78,15.0
+2024,2,1122,77,albon,Williams,12,11.85,11.0
+2024,2,1122,77,kevin_magnussen,Haas F1 Team,13,12.0,12.0
+2024,2,1122,77,ricciardo,RB F1 Team,14,12.36,16.0
+2024,2,1122,77,zhou,Sauber,20,14.21,18.0
+2024,2,1122,77,bottas,Sauber,16,14.27,17.0
+2024,2,1122,77,ocon,Alpine F1 Team,17,14.81,13.0
+2024,2,1122,77,hulkenberg,Haas F1 Team,15,14.94,10.0
+2024,2,1122,77,sargeant,Williams,19,16.22,14.0
+2024,3,1123,1,leclerc,Ferrari,4,4.15,2.0
+2024,3,1123,1,sainz,Ferrari,2,4.52,1.0
+2024,3,1123,1,norris,McLaren,3,4.54,3.0
+2024,3,1123,1,perez,Red Bull,6,5.4,5.0
+2024,3,1123,1,russell,Mercedes,7,6.32,17.0
+2024,3,1123,1,piastri,McLaren,5,6.52,4.0
+2024,3,1123,1,alonso,Aston Martin,10,6.95,8.0
+2024,3,1123,1,tsunoda,RB F1 Team,8,9.67,7.0
+2024,3,1123,1,stroll,Aston Martin,9,10.0,6.0
+2024,3,1123,1,albon,Williams,12,11.0,11.0
+2024,3,1123,1,ocon,Alpine F1 Team,15,11.11,16.0
+2024,3,1123,1,gasly,Alpine F1 Team,17,12.86,13.0
+2024,3,1123,1,ricciardo,RB F1 Team,18,14.16,12.0
+2024,3,1123,1,bottas,Sauber,13,14.3,14.0
+2024,3,1123,1,zhou,Sauber,19,14.34,15.0
+2024,3,1123,1,hulkenberg,Haas F1 Team,16,14.8,9.0
+2024,3,1123,1,kevin_magnussen,Haas F1 Team,14,15.11,10.0
+2024,4,1124,22,max_verstappen,Red Bull,1,1.85,1.0
+2024,4,1124,22,perez,Red Bull,2,2.55,2.0
+2024,4,1124,22,norris,McLaren,3,3.76,5.0
+2024,4,1124,22,sainz,Ferrari,4,4.98,3.0
+2024,4,1124,22,leclerc,Ferrari,8,5.59,4.0
+2024,4,1124,22,piastri,McLaren,6,5.72,8.0
+2024,4,1124,22,hamilton,Mercedes,7,6.46,9.0
+2024,4,1124,22,alonso,Aston Martin,5,7.4,6.0
+2024,4,1124,22,russell,Mercedes,9,7.86,7.0
+2024,4,1124,22,stroll,Aston Martin,16,10.12,12.0
+2024,4,1124,22,tsunoda,RB F1 Team,10,10.37,10.0
+2024,4,1124,22,ocon,Alpine F1 Team,15,11.96,15.0
+2024,4,1124,22,hulkenberg,Haas F1 Team,12,12.88,11.0
+2024,4,1124,22,gasly,Alpine F1 Team,17,13.12,16.0
+2024,4,1124,22,bottas,Sauber,13,13.68,14.0
+2024,4,1124,22,kevin_magnussen,Haas F1 Team,18,13.78,13.0
+2024,4,1124,22,sargeant,Williams,19,15.32,17.0
+2024,5,1125,17,max_verstappen,Red Bull,1,1.14,1.0
+2024,5,1125,17,perez,Red Bull,2,3.28,3.0
+2024,5,1125,17,alonso,Aston Martin,3,3.6,7.0
+2024,5,1125,17,leclerc,Ferrari,6,5.34,4.0
+2024,5,1125,17,norris,McLaren,4,5.88,2.0
+2024,5,1125,17,russell,Mercedes,8,5.97,6.0
+2024,5,1125,17,sainz,Ferrari,7,7.04,5.0
+2024,5,1125,17,piastri,McLaren,5,7.09,8.0
+2024,5,1125,17,stroll,Aston Martin,11,9.43,15.0
+2024,5,1125,17,ocon,Alpine F1 Team,13,9.44,11.0
+2024,5,1125,17,hulkenberg,Haas F1 Team,9,10.08,10.0
+2024,5,1125,17,hamilton,Mercedes,18,11.66,9.0
+2024,5,1125,17,albon,Williams,14,12.16,12.0
+2024,5,1125,17,kevin_magnussen,Haas F1 Team,17,12.93,16.0
+2024,5,1125,17,zhou,Sauber,16,13.31,14.0
+2024,5,1125,17,gasly,Alpine F1 Team,15,14.03,13.0
+2024,5,1125,17,sargeant,Williams,20,15.7,17.0
+2024,6,1126,79,max_verstappen,Red Bull,1,1.44,2.0
+2024,6,1126,79,leclerc,Ferrari,2,2.32,3.0
+2024,6,1126,79,perez,Red Bull,4,3.99,4.0
+2024,6,1126,79,sainz,Ferrari,3,4.62,5.0
+2024,6,1126,79,russell,Mercedes,7,5.99,8.0
+2024,6,1126,79,piastri,McLaren,6,6.17,13.0
+2024,6,1126,79,norris,McLaren,5,6.31,1.0
+2024,6,1126,79,hamilton,Mercedes,8,9.1,6.0
+2024,6,1126,79,stroll,Aston Martin,11,9.76,17.0
+2024,6,1126,79,tsunoda,RB F1 Team,10,9.88,7.0
+2024,6,1126,79,gasly,Alpine F1 Team,12,9.93,12.0
+2024,6,1126,79,alonso,Aston Martin,15,9.99,9.0
+2024,6,1126,79,ocon,Alpine F1 Team,13,10.39,10.0
+2024,6,1126,79,hulkenberg,Haas F1 Team,9,10.94,11.0
+2024,6,1126,79,albon,Williams,14,11.4,18.0
+2024,6,1126,79,kevin_magnussen,Haas F1 Team,18,14.19,19.0
+2024,6,1126,79,bottas,Sauber,16,14.3,16.0
+2024,6,1126,79,ricciardo,RB F1 Team,20,14.38,15.0
+2024,6,1126,79,zhou,Sauber,19,15.48,14.0
+2024,7,1127,21,max_verstappen,Red Bull,1,1.5,1.0
+2024,7,1127,21,leclerc,Ferrari,3,2.81,3.0
+2024,7,1127,21,sainz,Ferrari,4,4.14,5.0
+2024,7,1127,21,norris,McLaren,2,4.98,2.0
+2024,7,1127,21,hamilton,Mercedes,8,6.04,6.0
+2024,7,1127,21,piastri,McLaren,5,6.13,4.0
+2024,7,1127,21,perez,Red Bull,11,6.48,8.0
+2024,7,1127,21,russell,Mercedes,6,6.58,7.0
+2024,7,1127,21,tsunoda,RB F1 Team,7,8.82,10.0
+2024,7,1127,21,alonso,Aston Martin,20,9.38,19.0
+2024,7,1127,21,stroll,Aston Martin,13,9.83,9.0
+2024,7,1127,21,hulkenberg,Haas F1 Team,10,9.84,11.0
+2024,7,1127,21,ricciardo,RB F1 Team,9,9.93,13.0
+2024,7,1127,21,ocon,Alpine F1 Team,12,11.27,14.0
+2024,7,1127,21,kevin_magnussen,Haas F1 Team,18,13.55,12.0
+2024,7,1127,21,bottas,Sauber,16,13.63,18.0
+2024,7,1127,21,zhou,Sauber,17,14.11,15.0
+2024,7,1127,21,gasly,Alpine F1 Team,15,14.44,16.0
+2024,7,1127,21,sargeant,Williams,19,16.74,17.0
+2024,8,1128,6,max_verstappen,Red Bull,6,2.47,6.0
+2024,8,1128,6,leclerc,Ferrari,1,2.65,1.0
+2024,8,1128,6,norris,McLaren,4,4.76,4.0
+2024,8,1128,6,piastri,McLaren,2,5.2,2.0
+2024,8,1128,6,russell,Mercedes,5,5.95,5.0
+2024,8,1128,6,sainz,Ferrari,3,6.15,3.0
+2024,8,1128,6,hamilton,Mercedes,7,6.3,7.0
+2024,8,1128,6,tsunoda,RB F1 Team,8,8.75,8.0
+2024,8,1128,6,ricciardo,RB F1 Team,12,10.82,12.0
+2024,8,1128,6,albon,Williams,9,10.97,9.0
+2024,8,1128,6,alonso,Aston Martin,14,11.06,11.0
+2024,8,1128,6,stroll,Aston Martin,13,11.1,14.0
+2024,8,1128,6,gasly,Alpine F1 Team,10,11.42,10.0
+2024,8,1128,6,zhou,Sauber,18,14.79,16.0
+2024,8,1128,6,bottas,Sauber,17,14.84,13.0
+2024,8,1128,6,sargeant,Williams,15,14.88,15.0
+2024,9,1129,7,max_verstappen,Red Bull,2,1.99,1.0
+2024,9,1129,7,norris,McLaren,3,3.56,2.0
+2024,9,1129,7,russell,Mercedes,1,4.1,3.0
+2024,9,1129,7,piastri,McLaren,4,6.16,5.0
+2024,9,1129,7,alonso,Aston Martin,6,6.19,6.0
+2024,9,1129,7,hamilton,Mercedes,7,6.39,4.0
+2024,9,1129,7,stroll,Aston Martin,9,8.52,7.0
+2024,9,1129,7,tsunoda,RB F1 Team,8,8.93,14.0
+2024,9,1129,7,ricciardo,RB F1 Team,5,9.52,8.0
+2024,9,1129,7,hulkenberg,Haas F1 Team,17,13.24,11.0
+2024,9,1129,7,ocon,Alpine F1 Team,18,13.68,10.0
+2024,9,1129,7,kevin_magnussen,Haas F1 Team,14,14.34,12.0
+2024,9,1129,7,gasly,Alpine F1 Team,15,14.46,9.0
+2024,9,1129,7,bottas,Sauber,0,15.64,13.0
+2024,9,1129,7,zhou,Sauber,0,17.32,15.0
+2024,10,1130,4,max_verstappen,Red Bull,2,2.15,1.0
+2024,10,1130,4,norris,McLaren,1,2.26,2.0
+2024,10,1130,4,leclerc,Ferrari,5,3.67,5.0
+2024,10,1130,4,hamilton,Mercedes,3,5.04,3.0
+2024,10,1130,4,sainz,Ferrari,6,5.31,6.0
+2024,10,1130,4,piastri,McLaren,9,7.18,7.0
+2024,10,1130,4,russell,Mercedes,4,7.32,4.0
+2024,10,1130,4,perez,Red Bull,11,7.33,8.0
+2024,10,1130,4,alonso,Aston Martin,10,8.21,12.0
+2024,10,1130,4,ocon,Alpine F1 Team,8,9.42,10.0
+2024,10,1130,4,gasly,Alpine F1 Team,7,9.53,9.0
+2024,10,1130,4,stroll,Aston Martin,14,11.97,14.0
+2024,10,1130,4,bottas,Sauber,12,12.35,16.0
+2024,10,1130,4,hulkenberg,Haas F1 Team,13,13.09,11.0
+2024,10,1130,4,tsunoda,RB F1 Team,17,13.36,19.0
+2024,10,1130,4,ricciardo,RB F1 Team,18,14.13,15.0
+2024,10,1130,4,kevin_magnussen,Haas F1 Team,16,14.65,17.0
+2024,10,1130,4,zhou,Sauber,15,14.75,13.0
+2024,10,1130,4,albon,Williams,0,16.06,18.0
+2024,10,1130,4,sargeant,Williams,19,16.49,20.0
+2024,11,1131,70,norris,McLaren,2,1.82,20.0
+2024,11,1131,70,max_verstappen,Red Bull,1,2.21,5.0
+2024,11,1131,70,leclerc,Ferrari,6,4.05,11.0
+2024,11,1131,70,hamilton,Mercedes,5,4.2,4.0
+2024,11,1131,70,russell,Mercedes,3,5.02,1.0
+2024,11,1131,70,perez,Red Bull,8,5.07,7.0
+2024,11,1131,70,sainz,Ferrari,4,5.12,3.0
+2024,11,1131,70,piastri,McLaren,7,6.7,2.0
+2024,11,1131,70,alonso,Aston Martin,15,9.74,18.0
+2024,11,1131,70,ocon,Alpine F1 Team,10,10.1,12.0
+2024,11,1131,70,hulkenberg,Haas F1 Team,9,10.12,6.0
+2024,11,1131,70,tsunoda,RB F1 Team,14,10.68,14.0
+2024,11,1131,70,gasly,Alpine F1 Team,13,11.58,10.0
+2024,11,1131,70,stroll,Aston Martin,17,12.17,13.0
+2024,11,1131,70,ricciardo,RB F1 Team,11,12.44,9.0
+2024,11,1131,70,kevin_magnussen,Haas F1 Team,12,13.73,8.0
+2024,11,1131,70,albon,Williams,16,14.87,15.0
+2024,11,1131,70,zhou,Sauber,20,14.99,17.0
+2024,11,1131,70,sargeant,Williams,19,15.01,19.0
+2024,11,1131,70,bottas,Sauber,18,15.16,16.0
+2024,12,1132,9,max_verstappen,Red Bull,4,4.17,2.0
+2024,12,1132,9,norris,McLaren,3,4.18,3.0
+2024,12,1132,9,sainz,Ferrari,7,5.34,5.0
+2024,12,1132,9,leclerc,Ferrari,11,5.36,14.0
+2024,12,1132,9,piastri,McLaren,5,6.26,4.0
+2024,12,1132,9,hamilton,Mercedes,2,6.29,1.0
+2024,12,1132,9,hulkenberg,Haas F1 Team,6,6.82,6.0
+2024,12,1132,9,stroll,Aston Martin,8,8.43,7.0
+2024,12,1132,9,perez,Red Bull,0,9.69,17.0
+2024,12,1132,9,albon,Williams,9,10.47,9.0
+2024,12,1132,9,alonso,Aston Martin,10,10.5,8.0
+2024,12,1132,9,tsunoda,RB F1 Team,13,11.62,10.0
+2024,12,1132,9,ricciardo,RB F1 Team,15,11.82,13.0
+2024,12,1132,9,ocon,Alpine F1 Team,18,12.95,16.0
+2024,12,1132,9,kevin_magnussen,Haas F1 Team,17,13.6,12.0
+2024,12,1132,9,sargeant,Williams,12,14.21,11.0
+2024,12,1132,9,zhou,Sauber,14,14.4,18.0
+2024,12,1132,9,bottas,Sauber,16,14.88,15.0
+2024,13,1133,11,max_verstappen,Red Bull,3,2.64,5.0
+2024,13,1133,11,norris,McLaren,1,3.11,2.0
+2024,13,1133,11,sainz,Ferrari,4,4.46,6.0
+2024,13,1133,11,hamilton,Mercedes,5,5.7,3.0
+2024,13,1133,11,piastri,McLaren,2,6.25,1.0
+2024,13,1133,11,leclerc,Ferrari,6,6.72,4.0
+2024,13,1133,11,alonso,Aston Martin,7,8.2,11.0
+2024,13,1133,11,stroll,Aston Martin,8,8.83,10.0
+2024,13,1133,11,russell,Mercedes,17,10.02,8.0
+2024,13,1133,11,hulkenberg,Haas F1 Team,11,10.29,13.0
+2024,13,1133,11,perez,Red Bull,16,11.28,7.0
+2024,13,1133,11,ricciardo,RB F1 Team,9,11.45,12.0
+2024,13,1133,11,tsunoda,RB F1 Team,10,11.57,9.0
+2024,13,1133,11,kevin_magnussen,Haas F1 Team,15,12.15,15.0
+2024,13,1133,11,albon,Williams,13,12.46,14.0
+2024,13,1133,11,bottas,Sauber,12,12.87,16.0
+2024,13,1133,11,ocon,Alpine F1 Team,19,13.11,18.0
+2024,13,1133,11,sargeant,Williams,14,15.5,17.0
+2024,13,1133,11,zhou,Sauber,18,15.97,19.0
+2024,14,1134,13,leclerc,Ferrari,1,2.22,3.0
+2024,14,1134,13,perez,Red Bull,2,4.92,7.0
+2024,14,1134,13,hamilton,Mercedes,3,4.95,1.0
+2024,14,1134,13,piastri,McLaren,5,5.34,2.0
+2024,14,1134,13,norris,McLaren,4,6.4,5.0
+2024,14,1134,13,sainz,Ferrari,7,6.53,6.0
+2024,14,1134,13,max_verstappen,Red Bull,11,7.03,4.0
+2024,14,1134,13,alonso,Aston Martin,8,8.89,8.0
+2024,14,1134,13,ricciardo,RB F1 Team,13,9.49,10.0
+2024,14,1134,13,ocon,Alpine F1 Team,9,9.7,9.0
+2024,14,1134,13,gasly,Alpine F1 Team,12,11.3,13.0
+2024,14,1134,13,albon,Williams,10,11.3,12.0
+2024,14,1134,13,hulkenberg,Haas F1 Team,16,12.05,18.0
+2024,14,1134,13,stroll,Aston Martin,15,12.66,11.0
+2024,14,1134,13,tsunoda,RB F1 Team,20,12.91,16.0
+2024,14,1134,13,kevin_magnussen,Haas F1 Team,17,13.02,14.0
+2024,14,1134,13,bottas,Sauber,14,14.22,15.0
+2024,14,1134,13,sargeant,Williams,18,15.22,17.0
+2024,15,1135,39,norris,McLaren,1,2.66,1.0
+2024,15,1135,39,piastri,McLaren,3,3.81,4.0
+2024,15,1135,39,max_verstappen,Red Bull,2,3.87,2.0
+2024,15,1135,39,hamilton,Mercedes,14,4.65,8.0
+2024,15,1135,39,perez,Red Bull,5,4.84,6.0
+2024,15,1135,39,russell,Mercedes,4,5.5,7.0
+2024,15,1135,39,leclerc,Ferrari,6,6.67,3.0
+2024,15,1135,39,sainz,Ferrari,10,6.77,5.0
+2024,15,1135,39,alonso,Aston Martin,7,8.09,10.0
+2024,15,1135,39,stroll,Aston Martin,8,8.48,13.0
+2024,15,1135,39,gasly,Alpine F1 Team,9,9.41,9.0
+2024,15,1135,39,ricciardo,RB F1 Team,13,11.4,12.0
+2024,15,1135,39,hulkenberg,Haas F1 Team,12,11.49,11.0
+2024,15,1135,39,tsunoda,RB F1 Team,11,12.25,17.0
+2024,15,1135,39,ocon,Alpine F1 Team,15,13.1,15.0
+2024,15,1135,39,albon,Williams,19,13.23,14.0
+2024,15,1135,39,kevin_magnussen,Haas F1 Team,0,13.24,18.0
+2024,15,1135,39,bottas,Sauber,16,13.96,19.0
+2024,15,1135,39,sargeant,Williams,18,16.27,16.0
+2024,15,1135,39,zhou,Sauber,17,17.63,20.0
+2024,16,1136,14,norris,McLaren,1,2.27,3.0
+2024,16,1136,14,piastri,McLaren,2,3.2,2.0
+2024,16,1136,14,max_verstappen,Red Bull,7,3.29,6.0
+2024,16,1136,14,russell,Mercedes,3,4.3,7.0
+2024,16,1136,14,hamilton,Mercedes,6,4.38,5.0
+2024,16,1136,14,leclerc,Ferrari,4,5.2,1.0
+2024,16,1136,14,sainz,Ferrari,5,5.93,4.0
+2024,16,1136,14,perez,Red Bull,8,7.55,8.0
+2024,16,1136,14,hulkenberg,Haas F1 Team,10,9.32,17.0
+2024,16,1136,14,ricciardo,RB F1 Team,12,9.39,13.0
+2024,16,1136,14,alonso,Aston Martin,11,9.87,11.0
+2024,16,1136,14,albon,Williams,9,9.97,9.0
+2024,16,1136,14,kevin_magnussen,Haas F1 Team,13,11.86,10.0
+2024,16,1136,14,gasly,Alpine F1 Team,14,13.14,15.0
+2024,16,1136,14,stroll,Aston Martin,17,13.41,19.0
+2024,16,1136,14,ocon,Alpine F1 Team,15,13.68,14.0
+2024,16,1136,14,colapinto,Williams,18,15.16,12.0
+2024,16,1136,14,zhou,Sauber,20,15.38,18.0
+2024,16,1136,14,bottas,Sauber,19,15.88,16.0
+2024,17,1137,73,leclerc,Ferrari,1,2.54,2.0
+2024,17,1137,73,piastri,McLaren,2,3.06,1.0
+2024,17,1137,73,sainz,Ferrari,3,3.19,18.0
+2024,17,1137,73,russell,Mercedes,5,5.44,3.0
+2024,17,1137,73,perez,Red Bull,4,5.45,17.0
+2024,17,1137,73,norris,McLaren,15,5.83,4.0
+2024,17,1137,73,max_verstappen,Red Bull,6,6.22,5.0
+2024,17,1137,73,alonso,Aston Martin,7,9.24,6.0
+2024,17,1137,73,colapinto,Williams,8,9.89,8.0
+2024,17,1137,73,albon,Williams,9,10.59,7.0
+2024,17,1137,73,bearman,Haas F1 Team,10,10.74,10.0
+2024,17,1137,73,stroll,Aston Martin,13,11.54,19.0
+2024,17,1137,73,hamilton,Mercedes,0,11.68,9.0
+2024,17,1137,73,hulkenberg,Haas F1 Team,12,11.78,11.0
+2024,17,1137,73,gasly,Alpine F1 Team,18,12.79,12.0
+2024,17,1137,73,ricciardo,RB F1 Team,14,12.96,13.0
+2024,17,1137,73,ocon,Alpine F1 Team,0,12.96,15.0
+2024,17,1137,73,bottas,Sauber,16,13.38,16.0
+2024,17,1137,73,zhou,Sauber,17,15.04,14.0
+2024,18,1138,15,norris,McLaren,1,1.82,1.0
+2024,18,1138,15,piastri,McLaren,5,2.95,3.0
+2024,18,1138,15,max_verstappen,Red Bull,2,3.04,2.0
+2024,18,1138,15,hamilton,Mercedes,3,3.15,6.0
+2024,18,1138,15,russell,Mercedes,4,5.19,4.0
+2024,18,1138,15,leclerc,Ferrari,9,6.92,5.0
+2024,18,1138,15,sainz,Ferrari,10,8.16,7.0
+2024,18,1138,15,hulkenberg,Haas F1 Team,6,8.8,9.0
+2024,18,1138,15,tsunoda,RB F1 Team,8,8.98,12.0
+2024,18,1138,15,alonso,Aston Martin,7,9.26,8.0
+2024,18,1138,15,perez,Red Bull,13,10.22,10.0
+2024,18,1138,15,colapinto,Williams,12,11.7,11.0
+2024,18,1138,15,ricciardo,RB F1 Team,16,12.5,18.0
+2024,18,1138,15,gasly,Alpine F1 Team,18,12.76,17.0
+2024,18,1138,15,kevin_magnussen,Haas F1 Team,14,13.81,19.0
+2024,18,1138,15,ocon,Alpine F1 Team,15,14.18,13.0
+2024,18,1138,15,stroll,Aston Martin,17,15.23,14.0
+2024,18,1138,15,bottas,Sauber,19,15.72,16.0
+2024,18,1138,15,zhou,Sauber,20,16.2,15.0
+2024,19,1139,69,norris,McLaren,1,2.77,4.0
+2024,19,1139,69,piastri,McLaren,5,3.2,5.0
+2024,19,1139,69,max_verstappen,Red Bull,2,4.64,3.0
+2024,19,1139,69,sainz,Ferrari,3,4.97,2.0
+2024,19,1139,69,leclerc,Ferrari,4,5.77,1.0
+2024,19,1139,69,russell,Mercedes,20,6.52,6.0
+2024,19,1139,69,alonso,Aston Martin,7,7.38,13.0
+2024,19,1139,69,perez,Red Bull,9,7.58,7.0
+2024,19,1139,69,gasly,Alpine F1 Team,6,9.28,12.0
+2024,19,1139,69,tsunoda,RB F1 Team,10,10.43,14.0
+2024,19,1139,69,ocon,Alpine F1 Team,12,10.45,18.0
+2024,19,1139,69,colapinto,Williams,15,10.76,10.0
+2024,19,1139,69,hulkenberg,Haas F1 Team,11,10.9,8.0
+2024,19,1139,69,kevin_magnussen,Haas F1 Team,8,11.04,11.0
+2024,19,1139,69,albon,Williams,14,11.74,16.0
+2024,19,1139,69,stroll,Aston Martin,13,13.37,15.0
+2024,19,1139,69,lawson,RB F1 Team,19,13.74,9.0
+2024,19,1139,69,bottas,Sauber,16,14.62,17.0
+2024,19,1139,69,zhou,Sauber,18,16.22,19.0
+2024,20,1140,32,norris,McLaren,3,3.74,2.0
+2024,20,1140,32,sainz,Ferrari,1,4.11,1.0
+2024,20,1140,32,max_verstappen,Red Bull,2,4.46,6.0
+2024,20,1140,32,hamilton,Mercedes,6,4.48,4.0
+2024,20,1140,32,leclerc,Ferrari,4,5.68,3.0
+2024,20,1140,32,russell,Mercedes,5,6.24,5.0
+2024,20,1140,32,piastri,McLaren,17,8.02,8.0
+2024,20,1140,32,lawson,RB F1 Team,12,8.57,16.0
+2024,20,1140,32,gasly,Alpine F1 Team,8,8.72,10.0
+2024,20,1140,32,kevin_magnussen,Haas F1 Team,7,9.26,7.0
+2024,20,1140,32,hulkenberg,Haas F1 Team,10,9.6,9.0
+2024,20,1140,32,perez,Red Bull,18,10.06,17.0
+2024,20,1140,32,colapinto,Williams,16,12.72,12.0
+2024,20,1140,32,stroll,Aston Martin,14,13.72,11.0
+2024,20,1140,32,bottas,Sauber,15,14.62,14.0
+2024,20,1140,32,ocon,Alpine F1 Team,0,15.02,13.0
+2024,20,1140,32,zhou,Sauber,19,16.45,15.0
+2024,21,1141,18,norris,McLaren,1,3.06,6.0
+2024,21,1141,18,piastri,McLaren,8,4.78,8.0
+2024,21,1141,18,leclerc,Ferrari,6,4.94,5.0
+2024,21,1141,18,russell,Mercedes,2,5.37,4.0
+2024,21,1141,18,max_verstappen,Red Bull,17,6.63,1.0
+2024,21,1141,18,tsunoda,RB F1 Team,3,7.86,7.0
+2024,21,1141,18,hamilton,Mercedes,14,8.12,10.0
+2024,21,1141,18,alonso,Aston Martin,9,9.43,14.0
+2024,21,1141,18,lawson,RB F1 Team,5,9.49,9.0
+2024,21,1141,18,ocon,Alpine F1 Team,4,9.51,2.0
+2024,21,1141,18,gasly,Alpine F1 Team,13,10.36,3.0
+2024,21,1141,18,perez,Red Bull,12,11.34,11.0
+2024,21,1141,18,bottas,Sauber,11,12.0,13.0
+2024,21,1141,18,bearman,Haas F1 Team,15,13.26,12.0
+2024,21,1141,18,zhou,Sauber,19,16.11,15.0
+2024,22,1142,80,russell,Mercedes,1,3.3,1.0
+2024,22,1142,80,sainz,Ferrari,2,3.33,3.0
+2024,22,1142,80,norris,McLaren,6,3.35,6.0
+2024,22,1142,80,leclerc,Ferrari,4,5.25,4.0
+2024,22,1142,80,max_verstappen,Red Bull,5,6.22,5.0
+2024,22,1142,80,hamilton,Mercedes,10,7.38,2.0
+2024,22,1142,80,piastri,McLaren,8,7.96,7.0
+2024,22,1142,80,tsunoda,RB F1 Team,7,9.66,9.0
+2024,22,1142,80,ocon,Alpine F1 Team,11,10.71,17.0
+2024,22,1142,80,hulkenberg,Haas F1 Team,9,11.27,8.0
+2024,22,1142,80,alonso,Aston Martin,16,11.52,11.0
+2024,22,1142,80,kevin_magnussen,Haas F1 Team,12,11.94,12.0
+2024,22,1142,80,perez,Red Bull,15,12.06,10.0
+2024,22,1142,80,lawson,RB F1 Team,14,12.09,16.0
+2024,22,1142,80,colapinto,Williams,0,13.13,14.0
+2024,22,1142,80,stroll,Aston Martin,18,16.02,15.0
+2024,22,1142,80,zhou,Sauber,13,16.61,13.0
+2024,22,1142,80,bottas,Sauber,19,16.8,18.0
+2024,23,1143,78,russell,Mercedes,1,3.14,4.0
+2024,23,1143,78,max_verstappen,Red Bull,2,3.33,1.0
+2024,23,1143,78,norris,McLaren,3,3.52,10.0
+2024,23,1143,78,leclerc,Ferrari,5,3.86,2.0
+2024,23,1143,78,hamilton,Mercedes,6,5.05,12.0
+2024,23,1143,78,piastri,McLaren,4,5.2,3.0
+2024,23,1143,78,sainz,Ferrari,7,5.8,6.0
+2024,23,1143,78,alonso,Aston Martin,8,8.88,7.0
+2024,23,1143,78,gasly,Alpine F1 Team,11,9.4,5.0
+2024,23,1143,78,kevin_magnussen,Haas F1 Team,10,11.13,9.0
+2024,23,1143,78,lawson,RB F1 Team,17,11.48,14.0
+2024,23,1143,78,zhou,Sauber,12,13.34,8.0
+2024,23,1143,78,albon,Williams,16,13.47,15.0
+2024,23,1143,78,tsunoda,RB F1 Team,14,13.47,13.0
+2024,23,1143,78,bottas,Sauber,13,13.68,11.0
+2024,24,1144,24,norris,McLaren,1,2.98,1.0
+2024,24,1144,24,piastri,McLaren,2,3.71,10.0
+2024,24,1144,24,max_verstappen,Red Bull,4,4.84,6.0
+2024,24,1144,24,russell,Mercedes,6,5.5,5.0
+2024,24,1144,24,sainz,Ferrari,3,5.9,2.0
+2024,24,1144,24,leclerc,Ferrari,19,7.04,3.0
+2024,24,1144,24,hulkenberg,Haas F1 Team,7,7.87,8.0
+2024,24,1144,24,alonso,Aston Martin,8,8.37,9.0
+2024,24,1144,24,gasly,Alpine F1 Team,5,8.58,7.0
+2024,24,1144,24,hamilton,Mercedes,16,8.99,4.0
+2024,24,1144,24,doohan,Alpine F1 Team,17,9.51,15.0
+2024,24,1144,24,tsunoda,RB F1 Team,11,10.3,12.0
+2024,24,1144,24,stroll,Aston Martin,13,12.7,14.0
+2024,24,1144,24,albon,Williams,18,12.99,11.0
+2024,24,1144,24,lawson,RB F1 Team,12,13.27,17.0
+2024,24,1144,24,kevin_magnussen,Haas F1 Team,14,13.58,16.0
+2024,24,1144,24,zhou,Sauber,15,14.42,13.0

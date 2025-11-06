@@ -1,0 +1,21 @@
+# Python / venv
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# VS Code
+.vscode/
+
+# Data/cache (keep repo light)
+data/
+cache/
+*.ff1pkl
+*.sqlite
+*.zip
+*.xlsx
+
+# Generated artifacts (remove these lines if you WANT them in repo)
+base_*.csv
+predictions_*.csv
+plot_*.png
