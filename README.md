@@ -25,6 +25,7 @@ We use official Formula 1 datasets downloaded by Kaggle (1950-2024):
 How to use:
 
 pip install -r requirements.txt
+
 run to host the server- streamlit run  app.py
 
 
