@@ -1,0 +1,222 @@
+[
+  {
+    "name": "Max Verstappen",
+    "team": "Red Bull Racing",
+    "car_number": 1,
+    "points_2024": 575,
+    "nationality": "NED",
+    "lifetime_wins": 61,
+    "age": 27,
+    "years_in_f1": 10,
+    "championships": 3
+  },
+  {
+    "name": "Sergio Perez",
+    "team": "Red Bull Racing",
+    "car_number": 11,
+    "points_2024": 285,
+    "nationality": "MEX",
+    "lifetime_wins": 6,
+    "age": 35,
+    "years_in_f1": 14,
+    "championships": 0
+  },
+  {
+    "name": "Lando Norris",
+    "team": "McLaren",
+    "car_number": 4,
+    "points_2024": 326,
+    "nationality": "GBR",
+    "lifetime_wins": 1,
+    "age": 25,
+    "years_in_f1": 6,
+    "championships": 0
+  },
+  {
+    "name": "Oscar Piastri",
+    "team": "McLaren",
+    "car_number": 81,
+    "points_2024": 238,
+    "nationality": "AUS",
+    "lifetime_wins": 0,
+    "age": 23,
+    "years_in_f1": 2,
+    "championships": 0
+  },
+  {
+    "name": "Charles Leclerc",
+    "team": "Ferrari",
+    "car_number": 16,
+    "points_2024": 211,
+    "nationality": "MON",
+    "lifetime_wins": 5,
+    "age": 27,
+    "years_in_f1": 7,
+    "championships": 0
+  },
+  {
+    "name": "Carlos Sainz Jr.",
+    "team": "Ferrari",
+    "car_number": 55,
+    "points_2024": 217,
+    "nationality": "ESP",
+    "lifetime_wins": 3,
+    "age": 30,
+    "years_in_f1": 10,
+    "championships": 0
+  },
+  {
+    "name": "Lewis Hamilton",
+    "team": "Mercedes",
+    "car_number": 44,
+    "points_2024": 235,
+    "nationality": "GBR",
+    "lifetime_wins": 103,
+    "age": 40,
+    "years_in_f1": 18,
+    "championships": 7
+  },
+  {
+    "name": "George Russell",
+    "team": "Mercedes",
+    "car_number": 63,
+    "points_2024": 175,
+    "nationality": "GBR",
+    "lifetime_wins": 1,
+    "age": 27,
+    "years_in_f1": 6,
+    "championships": 0
+  },
+  {
+    "name": "Fernando Alonso",
+    "team": "Aston Martin",
+    "car_number": 14,
+    "points_2024": 75,
+    "nationality": "ESP",
+    "lifetime_wins": 32,
+    "age": 43,
+    "years_in_f1": 20,
+    "championships": 2
+  },
+  {
+    "name": "Lance Stroll",
+    "team": "Aston Martin",
+    "car_number": 18,
+    "points_2024": 67,
+    "nationality": "CAN",
+    "lifetime_wins": 0,
+    "age": 26,
+    "years_in_f1": 8,
+    "championships": 0
+  },
+  {
+    "name": "Pierre Gasly",
+    "team": "Alpine",
+    "car_number": 10,
+    "points_2024": 62,
+    "nationality": "FRA",
+    "lifetime_wins": 1,
+    "age": 29,
+    "years_in_f1": 8,
+    "championships": 0
+  },
+  {
+    "name": "Esteban Ocon",
+    "team": "Alpine",
+    "car_number": 31,
+    "points_2024": 40,
+    "nationality": "FRA",
+    "lifetime_wins": 1,
+    "age": 28,
+    "years_in_f1": 7,
+    "championships": 0
+  },
+  {
+    "name": "Yuki Tsunoda",
+    "team": "Racing Bulls",
+    "car_number": 22,
+    "points_2024": 58,
+    "nationality": "JPN",
+    "lifetime_wins": 0,
+    "age": 24,
+    "years_in_f1": 4,
+    "championships": 0
+  },
+  {
+    "name": "Daniel Ricciardo",
+    "team": "Racing Bulls",
+    "car_number": 3,
+    "points_2024": 41,
+    "nationality": "AUS",
+    "lifetime_wins": 8,
+    "age": 35,
+    "years_in_f1": 14,
+    "championships": 0
+  },
+  {
+    "name": "Alexander Albon",
+    "team": "Williams",
+    "car_number": 23,
+    "points_2024": 12,
+    "nationality": "THA",
+    "lifetime_wins": 0,
+    "age": 28,
+    "years_in_f1": 5,
+    "championships": 0
+  },
+  {
+    "name": "Logan Sargeant",
+    "team": "Williams",
+    "car_number": 2,
+    "points_2024": 0,
+    "nationality": "USA",
+    "lifetime_wins": 0,
+    "age": 24,
+    "years_in_f1": 2,
+    "championships": 0
+  },
+  {
+    "name": "Nico Hülkenberg",
+    "team": "Kick Sauber",
+    "car_number": 27,
+    "points_2024": 33,
+    "nationality": "GER",
+    "lifetime_wins": 0,
+    "age": 37,
+    "years_in_f1": 13,
+    "championships": 0
+  },
+  {
+    "name": "Valtteri Bottas",
+    "team": "Kick Sauber",
+    "car_number": 77,
+    "points_2024": 10,
+    "nationality": "FIN",
+    "lifetime_wins": 10,
+    "age": 35,
+    "years_in_f1": 12,
+    "championships": 0
+  },
+  {
+    "name": "Kevin Magnussen",
+    "team": "Haas",
+    "car_number": 20,
+    "points_2024": 6,
+    "nationality": "DEN",
+    "lifetime_wins": 0,
+    "age": 32,
+    "years_in_f1": 9,
+    "championships": 0
+  },
+  {
+    "name": "Oliver Bearman",
+    "team": "Haas",
+    "car_number": 87,
+    "points_2024": 0,
+    "nationality": "GBR",
+    "lifetime_wins": 0,
+    "age": 20,
+    "years_in_f1": 0,
+    "championships": 0
+  }
+]
